@@ -6,3 +6,5 @@ const getData = async (userId) => {
 
     return {"user" : user, "post" : post}
 }
+
+export default getData;
